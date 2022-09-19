@@ -1,0 +1,5 @@
+package com.capg.main.models;
+
+public class Message {
+
+}
